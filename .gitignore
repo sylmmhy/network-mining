@@ -1,0 +1,13 @@
+# 含真实第三方数据的样例，只存本地
+references/example-private.md
+# 抓下来的数据、导出文件、密钥一律不进仓库
+out/
+li_out/
+export/
+*.csv
+*.zip
+.env
+*.env
+__pycache__/
+*.pyc
+.DS_Store
